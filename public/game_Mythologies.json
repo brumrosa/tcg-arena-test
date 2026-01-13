@@ -8,8 +8,8 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "",
-    "cardBack": ""
+    "dataUrl": "https://brumrosa.github.io/tcg-arena-test/public/CardList.json",
+    "cardBack": "https://i.imgur.com/pR0Bw9F.png"
   },
   "deckBuilding": {
     "mainFilters": [
