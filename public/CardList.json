@@ -1,17 +1,33 @@
 {
-  "1": {
-    "id": "1",
+  "card01": {
+    "id": "card01",
     "isToken": false,
     "face": {
       "front": {
-        "name": "",
+        "name": "Porco",
         "type": false,
-        "cost": 0,
-        "image": "https://i.imgur.com/4Ve6htd.png",
+        "cost": "1",
+        "image": "https://i.imgur.com/O3yUfHw.png",
         "isHorizontal": false
       }
     },
-    "name": "teste",
+    "name": "Porco",
+    "type": false,
+    "cost": 0
+  },
+  "card02": {
+    "id": "card02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gremlim",
+        "type": false,
+        "cost": "1",
+        "image": "  https://i.imgur.com/TVFeWjl.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gremlim",
     "type": false,
     "cost": 0
   }
