@@ -5,14 +5,14 @@
     "face": {
       "front": {
         "name": "Porco",
-        "type": false,
+        "type": "unidade",
         "cost": "1",
         "image": "https://i.imgur.com/O3yUfHw.png",
         "isHorizontal": false
       }
     },
     "name": "Porco",
-    "type": false,
+    "type": "unidade",
     "cost": 0
   },
   "card02": {
@@ -21,14 +21,14 @@
     "face": {
       "front": {
         "name": "Gremlim",
-        "type": false,
+        "type": "unidade",
         "cost": "1",
         "image": "  https://i.imgur.com/TVFeWjl.png",
         "isHorizontal": false
       }
     },
     "name": "Gremlim",
-    "type": false,
+    "type": "unidade",
     "cost": 0
   }
 }
