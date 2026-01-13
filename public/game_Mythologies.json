@@ -20,7 +20,9 @@
       {
         "title": "Classic",
         "gameplay": "Classic",
-        "customCategories": []
+        "customCategories": [
+          "unidade"
+        ]
       }
     ]
   },
