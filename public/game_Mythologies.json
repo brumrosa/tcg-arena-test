@@ -79,7 +79,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "Banco",
+                  "section": "banco",
                   "style": false
                 }
               ],
@@ -94,18 +94,11 @@
                   "style": false,
                   "content": [
                     {
-                      "direction": "column",
-                      "style": false,
-                      "content": [
-                        {
-                          "section": "Mana 1",
-                          "style": false
-                        }
-                      ],
-                      "isSymetricalForOpponents": false
+                      "section": "flamula",
+                      "style": false
                     },
                     {
-                      "section": "Mana 2",
+                      "section": "flamula",
                       "style": false
                     }
                   ],
@@ -120,8 +113,8 @@
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
         "sectionsDict": {
-          "Mana": {
-            "title": "Mana",
+          "flamula": {
+            "title": "flamula",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "START",
@@ -135,6 +128,38 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": false
+          },
+          "banco": {
+            "title": "banco",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "lane": {
+            "title": "lane",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
           }
         }
       }
