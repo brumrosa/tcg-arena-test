@@ -49,7 +49,12 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
-          "Mana"
+          "lane1",
+          "lane2",
+          "lane3",
+          "banco",
+          "flamula1",
+          "flamula2"
         ],
         "layout": {
           "direction": "column",
@@ -60,15 +65,15 @@
               "style": false,
               "content": [
                 {
-                  "section": "lane",
+                  "section": "lane1",
                   "style": false
                 },
                 {
-                  "section": "lane",
+                  "section": "lane2",
                   "style": false
                 },
                 {
-                  "section": "lane",
+                  "section": "lane3",
                   "style": false
                 }
               ],
@@ -94,11 +99,11 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "flamula",
+                      "section": "flamula1",
                       "style": false
                     },
                     {
-                      "section": "flamula",
+                      "section": "flamula2",
                       "style": false
                     }
                   ],
@@ -110,25 +115,13 @@
           ]
         },
         "categoriesAlreadyOnBoard": [],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromHand": {
+          "unidade": "banco"
+        },
+        "autoPlayFromStack": {
+          "unidade": "banco"
+        },
         "sectionsDict": {
-          "flamula": {
-            "title": "flamula",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "START",
-            "opponentAlignment": false,
-            "noAutoPayTo": "true",
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Ressources",
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "noQuickActions": false
-          },
           "banco": {
             "title": "banco",
             "isHidden": "no",
@@ -145,8 +138,72 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "lane": {
-            "title": "lane",
+          "lane1": {
+            "title": "New_Section",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "lane2": {
+            "title": "New_Section",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "lane3": {
+            "title": "New_Section",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "flamula1": {
+            "title": "flamula1",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "flamula2": {
+            "title": "flamula2",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
