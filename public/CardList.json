@@ -12,7 +12,7 @@
       }
     },
     "name": "Centelha de Oricalco",
-    "type": false,
+    "type": "unidade",
     "cost": 0
   },
   "card02": {
@@ -261,14 +261,14 @@
     "face": {
       "front": {
         "name": "Relâmpagos Infindos",
-        "type": false,
+        "type": "unidade",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Relâmpagos Infindos",
-    "type": false,
+    "type": "unidade",
     "cost": 0
   },
   "card18": {
@@ -309,14 +309,14 @@
     "face": {
       "front": {
         "name": "Punição do Profanador",
-        "type": false,
+        "type": "unidade",
         "cost": 0,
         "image": "",
         "isHorizontal": false
       }
     },
     "name": "Punição do Profanador",
-    "type": false,
+    "type": "unidade",
     "cost": 0
   },
   "card21": {
