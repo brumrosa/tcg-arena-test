@@ -263,7 +263,7 @@
         "name": "Relâmpagos Infindos",
         "type": "unidade",
         "cost": 0,
-        "image": "",
+        "image": "https://i.imgur.com/mb4iSDJ.png",
         "isHorizontal": false
       }
     },
@@ -311,7 +311,7 @@
         "name": "Punição do Profanador",
         "type": "unidade",
         "cost": 0,
-        "image": "",
+        "image": "https://i.imgur.com/DQiFvs5.png",
         "isHorizontal": false
       }
     },
