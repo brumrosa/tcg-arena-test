@@ -4,15 +4,15 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Porco",
+        "name": "Centelha de Oricalco",
         "type": "unidade",
-        "cost": "1",
-        "image": "https://i.imgur.com/O3yUfHw.png",
+        "cost": 0,
+        "image": "https://i.imgur.com/xgRLqZf.png",
         "isHorizontal": false
       }
     },
-    "name": "Porco",
-    "type": "unidade",
+    "name": "Centelha de Oricalco",
+    "type": false,
     "cost": 0
   },
   "card02": {
@@ -20,14 +20,382 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Gremlim",
+        "name": "Espírito da Bruma",
         "type": "unidade",
-        "cost": "1",
-        "image": "  https://i.imgur.com/TVFeWjl.png",
+        "cost": 0,
+        "image": "https://i.imgur.com/G5U6Pve.png",
         "isHorizontal": false
       }
     },
-    "name": "Gremlim",
+    "name": "Espírito da Bruma",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card03": {
+    "id": "card03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Águia",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/OXWYdTt.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Águia",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card04": {
+    "id": "card04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Escudeiro da Guarda",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/0hdHaom.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Escudeiro da Guarda",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card05": {
+    "id": "card05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Aprendiz do Tempo",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/Anzzf7m.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Aprendiz do Tempo",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card06": {
+    "id": "card06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arqueiro do Olimpo",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/3pG8Sd8.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arqueiro do Olimpo",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card07": {
+    "id": "card07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mago de Batalha",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/4XYnnm9.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mago de Batalha",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card08": {
+    "id": "card08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Capitão de Oricalco",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/JHi4d6j.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Capitão de Oricalco",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card09": {
+    "id": "card09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Estrategista das Nuvens",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/EY2MRVy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Estrategista das Nuvens",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card10": {
+    "id": "card10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arquimago do Infinito",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/i5nbVmt.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arquimago do Infinito",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card11": {
+    "id": "card11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ninfa Trovejante",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/BjXAvbQ.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ninfa Trovejante",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card12": {
+    "id": "card12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Apolo, Arqueiro Solar",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/6seEHST.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Apolo, Arqueiro Solar",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card13": {
+    "id": "card13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Quimera da Tempestade",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/BgQ9peA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Quimera da Tempestade",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card14": {
+    "id": "card14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hércules, o Campeão",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/ABAljYW.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hércules, o Campeão",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card15": {
+    "id": "card15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ventania Dispersora",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/0raQYLy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ventania Dispersora",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card16": {
+    "id": "card16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Negação Arcana",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/AZsu01F.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Negação Arcana",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card17": {
+    "id": "card17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Relâmpagos Infindos",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Relâmpagos Infindos",
+    "type": false,
+    "cost": 0
+  },
+  "card18": {
+    "id": "card18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raio Menor",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/LABplKE.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raio Menor",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card19": {
+    "id": "card19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "O Raio Mestre",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/lPQ9oTH.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "O Raio Mestre",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card20": {
+    "id": "card20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Punição do Profanador",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Punição do Profanador",
+    "type": false,
+    "cost": 0
+  },
+  "card21": {
+    "id": "card21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Xenia, a Lei da Hospitalidade ",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/wyl6ROE.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Xenia, a Lei da Hospitalidade ",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card22": {
+    "id": "card22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conduíte de Mana",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/SiRdRU5.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conduíte de Mana",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card23": {
+    "id": "card23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "O Monte Olimpo",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/h7wgh3n.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "O Monte Olimpo",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card24": {
+    "id": "card24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trono de Nuvens",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/9wkou7X.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Trono de Nuvens",
+    "type": "unidade",
+    "cost": 0
+  },
+  "card25": {
+    "id": "card25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Campo de Batalha da Titanomaquia",
+        "type": "unidade",
+        "cost": 0,
+        "image": "https://i.imgur.com/FMsrrr8.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Campo de Batalha da Titanomaquia",
     "type": "unidade",
     "cost": 0
   }
