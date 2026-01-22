@@ -3,7 +3,7 @@
   "menuBackgroundImage": "",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": ""
+    "decksUrl": "https://brumrosa.github.io/tcg-arena-test/public/starter_decks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
@@ -67,7 +67,9 @@
               "content": [
                 {
                   "section": "estadio",
-                  "style": false
+                  "style": {
+                    "width": "10.2vh"
+                  }
                 }
               ],
               "isSymetricalForOpponents": true
@@ -76,6 +78,12 @@
               "direction": "row",
               "style": false,
               "content": [
+                {
+                  "section": "divindade",
+                  "style": {
+                    "width": "10.2vh"
+                  }
+                },
                 {
                   "section": "lane1",
                   "style": false
@@ -94,12 +102,7 @@
             {
               "direction": "row",
               "style": false,
-              "content": [
-                {
-                  "section": "banco",
-                  "style": false
-                }
-              ],
+              "content": [],
               "isSymetricalForOpponents": false
             },
             {
@@ -107,19 +110,18 @@
               "style": false,
               "content": [
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "flamula1",
-                      "style": false
-                    },
-                    {
-                      "section": "flamula2",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": false
+                  "section": "flamula1",
+                  "style": false
+                },
+                {
+                  "section": "flamula2",
+                  "style": false
+                },
+                {
+                  "section": "banco",
+                  "style": {
+                    "width": "33vw"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -239,6 +241,22 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Estadio",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "divindade": {
+            "title": "divindade",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
