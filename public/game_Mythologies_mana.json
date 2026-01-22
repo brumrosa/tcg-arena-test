@@ -77,6 +77,12 @@
               "style": false,
               "content": [
                 {
+                  "section": "divindade",
+                  "style": {
+                    "width": "10.2vh"
+                  }
+                },
+                {
                   "section": "lane1",
                   "style": false
                 },
@@ -233,6 +239,22 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Estadio",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "divindade": {
+            "title": "divindade",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,

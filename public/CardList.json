@@ -398,5 +398,60 @@
     "name": "Campo de Batalha da Titanomaquia",
     "type": "unidade",
     "cost": 0
+  },
+  "flamula01": {
+    "id": "flamula01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flâmula Vermelha",
+        "type": "flamula",
+        "cost": 0,
+        "image": "https://i.imgur.com/wztlzz1.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flâmula Vermelha",
+    "type": "flamula",
+    "cost": 0
+  },
+  "flamula02": {
+    "id": "flamula02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flâmula Amarela",
+        "type": "flamula",
+        "cost": 0,
+        "image": "https://i.imgur.com/4iNtw7f.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flâmula Amarela",
+    "type": "flamula",
+    "cost": 0
+  },
+  "divindade01": {
+    "id": "divindade01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zeus",
+        "type": "divindade",
+        "cost": 0,
+        "image": "https://i.imgur.com/jMnh9wi.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "divindade",
+        "cost": 0,
+        "image": "https://i.imgur.com/SbbUeBV.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zeus",
+    "type": "divindade",
+    "cost": 0
   }
 }
