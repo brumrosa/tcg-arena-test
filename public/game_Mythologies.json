@@ -67,9 +67,7 @@
               "content": [
                 {
                   "section": "estadio",
-                  "style": {
-                    "width": "10.2vh"
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": true
@@ -81,7 +79,7 @@
                 {
                   "section": "divindade",
                   "style": {
-                    "width": "10.2vh"
+                    "width": "10.2vw"
                   }
                 },
                 {
@@ -251,7 +249,7 @@
           "divindade": {
             "title": "divindade",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
