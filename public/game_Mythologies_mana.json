@@ -3,7 +3,7 @@
   "menuBackgroundImage": "",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": ""
+    "decksUrl": "https://brumrosa.github.io/tcg-arena-test/public/starter_decks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
