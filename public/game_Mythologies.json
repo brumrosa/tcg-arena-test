@@ -21,7 +21,9 @@
         "title": "Classic",
         "gameplay": "Classic",
         "customCategories": [
-          "unidade"
+          "unidade",
+          "divindade",
+          "flamula"
         ]
       }
     ]
@@ -55,7 +57,8 @@
           "banco",
           "flamula1",
           "flamula2",
-          "estadio"
+          "estadio",
+          "divindade"
         ],
         "layout": {
           "direction": "column",
@@ -126,7 +129,10 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": [],
+        "categoriesAlreadyOnBoard": [
+          "divindade",
+          "flamula"
+        ],
         "autoPlayFromHand": {
           "unidade": "banco"
         },
