@@ -106,7 +106,7 @@
               "direction": "row",
               "style": false,
               "content": [],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             },
             {
               "direction": "row",
@@ -127,7 +127,7 @@
                   }
                 }
               ],
-              "isSymetricalForOpponents": false
+              "isSymetricalForOpponents": true
             }
           ]
         },
