@@ -23,7 +23,9 @@
         "customCategories": [
           "unidade",
           "divindade",
-          "flamula"
+          "flamula",
+          "flamula1",
+          "flamula2"
         ]
       }
     ]
@@ -130,7 +132,9 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "divindade"
+          "divindade",
+	  "flamula1",
+	  "flamula2"
         ],
         "autoPlayFromHand": {
           "unidade": "banco"
