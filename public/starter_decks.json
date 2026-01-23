@@ -1,111 +1,40 @@
 [{
   "title": "Zeus",
-  "id": "a93b4368-afbe-480f-9ca0-5b5c1baa647e",
+  "id": "1af9c497-d4e9-4490-9dd4-4648b46aaa63",
   "game": "Mythologies",
   "format": [
     "Classic"
   ],
-  "cardCount": 27,
-  "createdAt": "2026-01-22T23:53:39.825Z",
-  "lastModifiedAt": "2026-01-22T23:54:44.334Z",
+  "cardCount": 28,
+  "createdAt": "2026-01-23T00:01:46.830Z",
+  "lastModifiedAt": "2026-01-23T00:01:46.830Z",
   "deckList": {
     "categoriesOrder": [
-      "unidade",
-      "flamula"
+      "divindade",
+      "flamula",
+      "unidade"
     ],
     "Sideboard": [],
+    "divindade": [
+      {
+        "count": 1,
+        "id": "divindade01"
+      }
+    ],
+    "flamula": [
+      {
+        "count": 1,
+        "id": "flamula02"
+      },
+      {
+        "count": 1,
+        "id": "flamula01"
+      }
+    ],
     "unidade": [
       {
         "count": 1,
-        "id": "card01"
-      },
-      {
-        "count": 1,
-        "id": "card02"
-      },
-      {
-        "count": 1,
-        "id": "card03"
-      },
-      {
-        "count": 1,
-        "id": "card04"
-      },
-      {
-        "count": 1,
-        "id": "card05"
-      },
-      {
-        "count": 1,
-        "id": "card06"
-      },
-      {
-        "count": 1,
-        "id": "card07"
-      },
-      {
-        "count": 1,
-        "id": "card08"
-      },
-      {
-        "count": 1,
-        "id": "card09"
-      },
-      {
-        "count": 1,
-        "id": "card10"
-      },
-      {
-        "count": 1,
-        "id": "card11"
-      },
-      {
-        "count": 1,
-        "id": "card12"
-      },
-      {
-        "count": 1,
-        "id": "card13"
-      },
-      {
-        "count": 1,
-        "id": "card14"
-      },
-      {
-        "count": 1,
-        "id": "card15"
-      },
-      {
-        "count": 1,
-        "id": "card16"
-      },
-      {
-        "count": 1,
-        "id": "card17"
-      },
-      {
-        "count": 1,
-        "id": "card18"
-      },
-      {
-        "count": 1,
-        "id": "card19"
-      },
-      {
-        "count": 1,
-        "id": "card20"
-      },
-      {
-        "count": 1,
-        "id": "card21"
-      },
-      {
-        "count": 1,
-        "id": "card22"
-      },
-      {
-        "count": 1,
-        "id": "card23"
+        "id": "card25"
       },
       {
         "count": 1,
@@ -113,17 +42,95 @@
       },
       {
         "count": 1,
-        "id": "card25"
-      }
-    ],
-    "flamula": [
-      {
-        "count": 1,
-        "id": "flamula01"
+        "id": "card23"
       },
       {
         "count": 1,
-        "id": "flamula02"
+        "id": "card22"
+      },
+      {
+        "count": 1,
+        "id": "card21"
+      },
+      {
+        "count": 1,
+        "id": "card20"
+      },
+      {
+        "count": 1,
+        "id": "card19"
+      },
+      {
+        "count": 1,
+        "id": "card18"
+      },
+      {
+        "count": 1,
+        "id": "card17"
+      },
+      {
+        "count": 1,
+        "id": "card16"
+      },
+      {
+        "count": 1,
+        "id": "card15"
+      },
+      {
+        "count": 1,
+        "id": "card14"
+      },
+      {
+        "count": 1,
+        "id": "card13"
+      },
+      {
+        "count": 1,
+        "id": "card12"
+      },
+      {
+        "count": 1,
+        "id": "card11"
+      },
+      {
+        "count": 1,
+        "id": "card10"
+      },
+      {
+        "count": 1,
+        "id": "card09"
+      },
+      {
+        "count": 1,
+        "id": "card08"
+      },
+      {
+        "count": 1,
+        "id": "card07"
+      },
+      {
+        "count": 1,
+        "id": "card06"
+      },
+      {
+        "count": 1,
+        "id": "card05"
+      },
+      {
+        "count": 1,
+        "id": "card04"
+      },
+      {
+        "count": 1,
+        "id": "card03"
+      },
+      {
+        "count": 1,
+        "id": "card02"
+      },
+      {
+        "count": 1,
+        "id": "card01"
       }
     ]
   }
