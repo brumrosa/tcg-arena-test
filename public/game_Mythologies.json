@@ -133,8 +133,8 @@
         },
         "categoriesAlreadyOnBoard": [
           "divindade",
-	  "flamula1",
-	  "flamula2"
+          "flamula1",
+          "flamula2"
         ],
         "autoPlayFromHand": {
           "unidade": "banco"
@@ -195,7 +195,7 @@
             "title": "flamula1",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
@@ -211,7 +211,7 @@
             "title": "flamula2",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
+            "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
@@ -258,7 +258,7 @@
           "divindade": {
             "title": "divindade",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
